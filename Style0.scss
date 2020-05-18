@@ -1,11 +1,9 @@
-
-table {
-    border: 2x solid #000000;
-    border-collapse: collapse;
-   }
-th {
-    border: 1px solid black;
+$color:red;
+ul {
+    font-size: 14px;
+    color: $color;
 }
-td {
-    border: 1px solid red;
+ol {
+    font-size: 18px;
+    color: $color;
 }
