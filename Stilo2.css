@@ -1,38 +1,19 @@
-table {
-    border-collapse: solid black;
-    width: 40%
-          
-    }
-  th {
-    border: 1px solid red; 
-    background-color: yellowgreen;
-    padding: 5px;
-    align-content: center;
-  }
-  td {
-    border: 1px solid red;
-    align-content: center;
-    font-family: Cambria;
-    text-align: center;
-  }
-  tr {
-    
-    background-position: center;
-     
-  }
-  a {
-    text-align: center;
-    
-  }     
-  ul {
-    font-size: 18px;
-    color:blue;
-  }
-/*# souceMappingURL=Stilo2.css.map */
-         
-  ol {
-    font-size: 14px;
-    color:red;
-  }
+ul {
+  font-size: 14px;
+  color: blue; }
 
-         
+ol {
+  font-size: 18px;
+  color: red; }
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse; }
+
+th, td {
+  border: 1px solid black; }
+
+th {
+  background-color: burlywood; }
+
+/*# sourceMappingURL=Stilo2.css.map */
