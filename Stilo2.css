@@ -1,6 +1,6 @@
 ul {
   font-size: 14px;
-  color: blue; }
+  color: red; }
 
 ol {
   font-size: 18px;
@@ -15,8 +15,5 @@ th, td {
 
 th {
   background-color: burlywood; }
-
-h1 {
-  padding: 10px; }
 
 /*# sourceMappingURL=Stilo2.css.map */

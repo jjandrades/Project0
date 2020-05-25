@@ -1,11 +1,11 @@
-$color: blue;
+$color: red;
 ul {
     font-size: 14px;
     color: $color;
 }
 ol {
     font-size: 18px;
-    color: red;
+    color: $color;
 }
 table {
     border: 2px solid black;
